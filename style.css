@@ -1,8 +1,8 @@
 @import "tailwindcss";
 
-.bg-gif {
-  background-image: url('./assets/video/raining-world-travel-GIF.gif');
-  background-size: cover;
-  background-position: center;
-  min-height: 100vh;
-}
+/* .bg-gif { */
+  /* background-image: url('./assets/video/raining-world-travel-GIF.gif'); */
+  /* background-size: cover; */
+  /* background-position: center; */
+  /* min-height: 100vh; */
+/* } */
